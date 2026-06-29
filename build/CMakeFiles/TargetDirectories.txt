@@ -1,0 +1,7 @@
+/home/surajv7/ros2_ws_old/syslogngandkernel_ubuntu/clone/Structured-Log-Orchestration/build/CMakeFiles/app_kernel_syslogng.dir
+/home/surajv7/ros2_ws_old/syslogngandkernel_ubuntu/clone/Structured-Log-Orchestration/build/CMakeFiles/edit_cache.dir
+/home/surajv7/ros2_ws_old/syslogngandkernel_ubuntu/clone/Structured-Log-Orchestration/build/CMakeFiles/rebuild_cache.dir
+/home/surajv7/ros2_ws_old/syslogngandkernel_ubuntu/clone/Structured-Log-Orchestration/build/CMakeFiles/list_install_components.dir
+/home/surajv7/ros2_ws_old/syslogngandkernel_ubuntu/clone/Structured-Log-Orchestration/build/CMakeFiles/install.dir
+/home/surajv7/ros2_ws_old/syslogngandkernel_ubuntu/clone/Structured-Log-Orchestration/build/CMakeFiles/install/local.dir
+/home/surajv7/ros2_ws_old/syslogngandkernel_ubuntu/clone/Structured-Log-Orchestration/build/CMakeFiles/install/strip.dir

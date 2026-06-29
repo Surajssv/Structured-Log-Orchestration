@@ -1,0 +1,3 @@
+/usr/local/bin/app_kernel_syslogng
+/etc/syslog-ng/conf.d/app_kernel_syslogng.conf
+/etc/syslog-ng/conf.d/00-loglevel.conf

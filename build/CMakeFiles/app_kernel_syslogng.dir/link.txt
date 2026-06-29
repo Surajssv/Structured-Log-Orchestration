@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/app_kernel_syslogng.dir/src/main.cpp.o -o app_kernel_syslogng 
